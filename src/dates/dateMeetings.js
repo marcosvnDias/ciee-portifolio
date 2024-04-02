@@ -39,7 +39,7 @@ export var dateMeetings = [
         algumas dessas leis, que por antes de serem definidas, acarretava numa situação totalmente 
         desumana de viver, como ter que trabalhar 16 horas seguidas todos os dias sem até mesmo um 
         minuto de intervalo. Ao criarmos leis que protegem os trabalhadores dessas situações, 
-        conseguimos pelo menos reverter cenários tenebrosos como estes. `,
+        conseguimos pelo menos reverter cenários tenebrosos como este. `,
 
         `Algumas leis que ajudaram a amenizar esses cenários na minha opinião foram tanto a lei que 
         determina um limite máximo de quanto alguém poderia trabalhar quanto a lei que define o 
@@ -49,20 +49,20 @@ export var dateMeetings = [
     {
         numberMeeting: 3, 
         text: [
-        `Esse encontro em si foi focado em uma empresa, no entanto, podemos dividir esse tema em 
-        três tópicos diferentes. O primeiro abordou o conceito de empresa, seus tipos e como 
-        se encaixava na nossa sociedade, já o segundo abordou conceitos que chamaram mais a minha 
-        atenção do que o terceiro, que foi organograma de uma empresa, no caso o que a atenção foi 
-        os conceitos de missão, visão e valores. `,
+        `Esse encontro em si foi focado em empresas; no entanto, podemos dividir esse 
+        tema em três tópicos diferentes. O primeiro abordou o conceito de empresa, seus 
+        tipos e como se encaixam na nossa sociedade. Já o segundo tópico abordou conceitos 
+        que chamaram mais a minha atenção do que o terceiro. O terceiro tratou do organograma 
+        de uma empresa, e o que mais chamou a minha atenção foram os conceitos de missão, visão e valores.`,
 
-        `Tal conceitos fizeram muito sentido para mim, uma vez que no meu entendimento de como se 
+        `Tais conceitos fizeram muito sentido para mim, uma vez que no meu entendimento de como se 
         criava um negócio, era necessário primeiramente que criássemos uma solução para um problema 
         que causava algumas complicações na vida de algum indivíduo ou empresa.`,
 
         `Nesse contexto, a elaboração de uma missão provavelmente seria mais fácil porque já 
         teríamos definido o porquê aquela empresa foi feita, todavia é essencial termos uma 
         visão para não nos perdemos no meio do caminho. No caso, onde especificamente essa 
-        empresa deseja estar no futuro, basicamente um objetivo pela qual sempre almeja. `,
+        empresa deseja estar no futuro, basicamente um objetivo pela qual sempre almeja.`,
 
         `Além disso, é preciso determinar os valores que esta nova empresa preza, pois
         assim já saberíamos que tipo de cultura queremos incentivar para se desenvolver 
@@ -73,16 +73,15 @@ export var dateMeetings = [
 {
     numberMeeting: 4, 
     text: [
-        `O tópico principal deste encontro foi a ética e ela no contexto de um profissional,
-        ademais, ainda tivemos uma aula ao vivo com a professora, nela, recebemos algumas 
-        dicas sobre como se comportar na internet, além de algumas dicas sobre como deveria 
-        ser o nosso comportamento dentro da empresa e situações que deveríamos 
-        evitar no geral. `,
+        `O tópico principal deste encontro foi a ética e seu papel no contexto profissional. 
+        Ademais, tivemos uma aula ao vivo com a professora, na qual recebemos algumas dicas 
+        sobre como nos comportar na internet, além de orientações sobre o comportamento adequado 
+        dentro da empresa e situações que devemos evitar de forma geral.`,
 
         `Em relação ao que aprendemos hoje na plataforma, foi nos ensinado valores 
         que deveríamos seguir, como a honestidade, integridade e o respeito. 
-        Tais ensinamos quando não praticado ou quando reforçado comportamentos ruins 
-        como o desrespeito e desonestidade, criam uma impressão negativa à pessoa que 
+        Tais ensinamos quando não praticados ou quando reforçado comportamentos ruins 
+        como o desrespeito e desonestidade. Isso cria uma impressão negativa à pessoa que 
         efetua tais práticas, consequentemente, a possibilidade dessa pessoa criar 
         um ambiente tóxico de trabalho aos seus colegas é alta, o que favorece o 
         estresse e talvez uma queda de rendimentos aos seus pares.`,
@@ -93,8 +92,8 @@ export var dateMeetings = [
         não vejo outra alternativa além do desligamento dessa pessoa da empresa.`,
 
         `Tendo essas perspectivas em mente, acho que o ideal é termos sempre uma boa 
-        ética profissional e o hábito de desenvolvemos nossa inteligência emocional, 
-        pois assim, adquirimos uma melhor empatia pelas pessoas e um maior controle 
+        ética profissional e o hábito de desenvolvemos nossa inteligência emocional. 
+        Pois assim, adquirimos uma melhor empatia pelas pessoas e um maior controle 
         sobre nossas emoções, o que é essencial para lidamos com situações estressantes 
         do dia a dia e para temos uma maior qualidade de vida.`
     ]
@@ -110,12 +109,12 @@ export var dateMeetings = [
         com alguém.`,
 
         `Além dessas noções da importância das relações interpessoais, nos foi indicado 
-        várias maneiras de temos boas relações com as pessoas ao nosso redor, todavia, 
+        várias maneiras de temos boas relações com as pessoas ao nosso redor. Todavia, 
         na minha opinião, acho que a melhor maneira de temos isso é através do 
-        desenvolvimento da inteligência emocional, já que desse modo aprenderíamos 
+        desenvolvimento da inteligência emocional. Desse modo aprenderíamos 
         coisas como, por exemplo, autoconhecimento, maior controle das emoções, 
         aumento da empatia e além disso uma ótima capacidade de se relacionar com as 
-        pessoas, como descrito no livro Inteligência Emocional, de Daniel Goleman. `,
+        pessoas como descrito no livro Inteligência Emocional, de Daniel Goleman. `,
 
         `Livro este juntou uma coletânea de pesquisas sobre o assunto e sobre 
         como lidamos com as emoções, ademais, o desenvolvimento desse tipo de 
@@ -141,10 +140,10 @@ export var dateMeetings = [
 
         `Ademais, além de utilizar alguma dessas ferramentas para registrar 
         as atividades que você deve cumprir, eu sugiro elencar etapa a etapa de 
-        como se resolveria cada atividade, tal pratica pode parecer maçante 
+        como se resolveria cada atividade. Tal pratica pode parecer maçante 
         dependendo do número de tarefas que você tem para realizar, no entanto, 
         concluir isto irá te ajudar a perceber melhor qual tarefa é mais simples 
-        de se realizar do que outra, além de que isso já agilizar o seu processo 
+        de se realizar do que outra. Além de que isso já agilizar o seu processo 
         de conclusão, pois, você já teria em mente as etapas que ainda faltam completar.`
     ]
 },
@@ -166,16 +165,16 @@ export var dateMeetings = [
 
         `Além dessas questões de adequação das pessoas ao ambiente, é preferível 
         que os colaboradores também tenham bons hábitos em relação a cuidado da 
-        sua saúde, hábitos estes podem incluem boa alimentação e pratica recorrente 
+        sua saúde. Hábitos estes podem incluem boa alimentação e pratica recorrente 
         de exercícios(não mantenho nenhum desses hábitos, todavia, compreendo a 
-        importância deles e que eu estou errado por exercê-los).`
+        importância deles e que eu estou errado por não exercê-los).`
     ]
 },
 {
     numberMeeting: 8, 
     text: [
         `Teve feriado nesse dia, então não teve encontro e passei o dia terminando de programar alguns
-        exercícios da semana passada`
+        exercícios da semana passada;`
     ]
 },
 {
@@ -200,6 +199,28 @@ export var dateMeetings = [
         do Gabriel Pato caso fique interessado no assunto e queira mais dicas. A pessoa que 
         apresenta esse canal tem uma excelente didática e muita experiencia na área, até porque 
         ele é um hacker do bem e começou sua história muito cedo.`
+    ]
+},
+{
+    numberMeeting: 10, 
+    text: [
+        `Esse foi o meu último encontro e nele aprendemos sobre o pacote Office, com foco 
+        principal no Word, Excel e PowerPoint. No entanto, eu sempre tive um preconceito com 
+        o PowerPoint, pois não o achava tão intuitivo e dinâmico quanto o Canvas. Consequentemente, 
+        não esperava aprender algo interessante ou que me surpreendesse sobre o PowerPoint, o que 
+        se provou um pensamento bem equivocado da minha parte.`,
+
+        `Eu não imaginava que o PowerPoint tinha tantas opções para animações e funções que 
+        ajudam no tratamento de imagens. Ao perceber que havia tantas opções diferentes para 
+        a elaboração de slides, acabei ficando surpreso com essa diversidade, que permite a 
+        criação de vários slides elaborados..`,
+
+        `Ao ter essas noções em mente, concluí que, de fato, ambas as ferramentas são 
+        igualmente boas. No entanto, eu indicaria o Canvas para casos em que você tenha 
+        pouco tempo e precise fazer algo rápido, e o PowerPoint caso você tenha tempo e 
+        queira fazer algo muito elaborado. Claro, ambos podem ser usados para criar algo rápido 
+        ou bastante complexo; entretanto, na minha opinião, o PowerPoint oferece opções que 
+        possibilitam a criação de algo muito mais elaborado do que o Canvas.`
     ]
 }
 ];
