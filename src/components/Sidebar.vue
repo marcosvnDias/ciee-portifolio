@@ -134,6 +134,29 @@
         font-size: 14px;
     }
 
+    @media screen and (max-width: 720px) {
+        /* .spear-header{    
+            height: 25px;
+            width: 50px;
+        } */
+        p{
+            font-size: 10px;
+        }
+    }
+
+    @media screen and (max-width: 800px) {
+        p{
+            font-size: 12px;
+        }
+    }
+
+    @media screen and (min-width: 808px) {
+        p{
+            font-size: 14px;
+        }
+    }
+
+
     @keyframes fadin {
         0%{
             transform: translateY(10px);
